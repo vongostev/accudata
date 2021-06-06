@@ -11,7 +11,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="accudata",
-    version="1.0",
+    version="1.0.1",
     author="Pavel Gostev",
     author_email="gostev.pavel@physics.msu.ru",
     description="Simple module to store data with arbitrary structure in dict or Pandas DataFrame",

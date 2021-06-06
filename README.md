@@ -9,6 +9,13 @@ The data can be consisted of:
 
 You can store it as pickled object or Pandas Dataframe.
 
+### Installation
+
+The module can be installed from pip
+```
+pip install accudata
+```
+
 ### For example
 
 You have a social data collecting process. You must collect on every step heterogeneous data:
