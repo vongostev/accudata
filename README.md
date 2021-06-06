@@ -33,10 +33,10 @@ After that you can make an iterative collecting process as follows:
 Data = PeopleAccData()
 for item in raw_data:
 	Data.next()
-	# \\\ Complicated code to extract data
+	# \\\ A complicated code to extract data
 	name, age, interests, food, pets, sport, politics, _ = extract_data(item)
 	Data.append(name, age, interests,
-				pref=[food, pets, sport, politics])
+		    pref=[food, pets, sport, politics])
 	
 ```
 
