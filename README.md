@@ -1,3 +1,6 @@
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/vongostev/accudata.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/vongostev/accudata/context:python)
+[![accudata](https://github.com/vongostev/accudata/actions/workflows/python-publish.yml/badge.svg)](https://github.com/vongostev/accudata/actions/workflows/python-publish.yml)
+
 ### Do you collect a heterogeneous data step by step?
 
 Here you find a convinient solution of this problem.
